@@ -1,0 +1,44 @@
+.navbar {
+    padding-inline: 1.75%;
+    padding-block: .5%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 1.2rem;
+    border-bottom: .01px solid gray;
+}
+
+.searchbox {
+    display: flex;
+}
+
+.searchbox input {
+    padding-block: .6rem;
+    padding-inline: 1.5rem;
+    border: 1px solid grey;
+    float: left;
+    width: 80%;
+    background: #3f3d3d;
+    color: white;
+    font-size: 1.1rem;
+}
+
+.searchbox button {
+    float: left;
+    width: 15%;
+    padding: 10px;
+    background: #323131;
+    color: white;
+    font-size: 17px;
+    border-left: none;
+    cursor: pointer;
+    border: none;
+}
+.button{
+    padding: .5rem;
+    padding-inline : 1rem;
+    color: white;
+    border: none;
+    border-radius: 8%;
+    margin-inline : .2rem;
+}
