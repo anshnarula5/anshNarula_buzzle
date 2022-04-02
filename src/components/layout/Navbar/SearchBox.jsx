@@ -4,7 +4,7 @@ const SearchBox = () => {
   return (
     <div>
       <form className="searchbox">
-        <input type="text" placeholder="Search.." name="search" size={35} />
+        <input type="text" placeholder="Search.." name="search" size={30} />
         <button type="submit">
           <i className="fa fa-search"></i>
         </button>
