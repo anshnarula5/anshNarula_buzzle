@@ -24,10 +24,12 @@ const LeftPanel = () => {
           Playlist
         </span>
       </div>
-      <h3>Recommended Rooms</h3>
-      <List />
-      <h3>Recommended Creators</h3>
-      <List />
+      <div className="lists">
+        <h3>Recommended Rooms</h3>
+        <List />
+        <h3>Recommended Creators</h3>
+        <List />
+      </div>
     </div>
   );
 };

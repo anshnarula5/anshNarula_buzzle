@@ -11,7 +11,7 @@ const List = () => {
             alt=""
             className="avatar"
           />
-          CodeWithHarry
+           <span className="name">CodeWithHarry</span>
         </div>
         <Button text={"Join"} color = "#0610fc" />
       </div>
@@ -22,7 +22,7 @@ const List = () => {
             alt=""
             className="avatar"
           />
-          CodeWithHarry
+           <span className="name">CodeWithHarry</span>
         </div>
         <Button text={"Join"} color = "#0610fc" />
       </div>
@@ -33,7 +33,7 @@ const List = () => {
             alt=""
             className="avatar"
           />
-          CodeWithHarry
+           <span className="name">CodeWithHarry</span>
         </div>
         <Button text={"Join"} color = "#0610fc" />
       </div>
@@ -44,7 +44,7 @@ const List = () => {
             alt=""
             className="avatar"
           />
-          CodeWithHarry
+           <span className="name">CodeWithHarry</span>
         </div>
         <Button text={"Join"} color = "#0610fc" />
       </div>
@@ -55,7 +55,7 @@ const List = () => {
             alt=""
             className="avatar"
           />
-          CodeWithHarry
+         <span className="name">CodeWithHarry</span>
         </div>
         <Button text={"Join"} color = "#0610fc" />
       </div>

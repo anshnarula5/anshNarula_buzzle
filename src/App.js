@@ -1,4 +1,5 @@
 import './App.css';
+import BottomNavigator from './components/layout/Bottom/BottomNavigator';
 import Navbar from './components/layout/Navbar/Navbar';
 import Home from './components/main/Home/Home';
 import LeftPanel from './components/main/LeftPanel/LeftPanel';
@@ -11,6 +12,7 @@ function App() {
         <LeftPanel />
         <Home />
       </div>
+      <BottomNavigator />
     </div>
   );
 }

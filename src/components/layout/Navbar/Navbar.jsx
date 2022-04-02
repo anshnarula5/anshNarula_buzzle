@@ -5,7 +5,7 @@ import SearchBox from "./SearchBox";
 const Navbar = () => {
   return (
     <div className="navbar">
-      <div style={{ color: "black" }}>navbar</div>
+      <div style={{ color: "black" }}>    </div>
       <SearchBox />
       <div>
         <Button text={"Login"} />
