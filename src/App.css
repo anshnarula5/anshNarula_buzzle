@@ -42,6 +42,7 @@
     border: none;
     border-radius: 8%;
     margin-inline: .2rem;
+    cursor: pointer;
 }
 
 .main {
