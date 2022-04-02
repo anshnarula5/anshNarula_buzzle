@@ -15,7 +15,7 @@ const Events = ({ name }) => {
           TOP <p className="highlight1">LIVE EVENTS</p> FROM{" "}
           <p className="highlight2">{name}</p> WORLD
         </h3>
-        <a href="#" style={{ textDecoration: "none" }}>
+        <a href="/" style={{ textDecoration: "none" }}>
           See more
         </a>
       </div>
